@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Work:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Work_jar</output-path>
+    <root id="archive" name="Work.jar">
+      <element id="module-output" name="Work" />
+      <element id="extracted-dir" path="D:/apache-maven-3.9.8-bin/responsitory/com/hankcs/hanlp/portable-1.8.4/hanlp-portable-1.8.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.9.8-bin/responsitory/org/ansj/ansj_seg/5.1.6/ansj_seg-5.1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/apache-maven-3.9.8-bin/responsitory/org/nlpcn/nlp-lang/1.7.7/nlp-lang-1.7.7.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
